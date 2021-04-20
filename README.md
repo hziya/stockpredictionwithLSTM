@@ -3,9 +3,16 @@ In this porject, I used LSTMs to predict next days' close price of Apple given p
 
 # Used libraries
 Pandas
+
 Keras
+
 matplotlib
+
 numpy
+
 sklearn
+
 pandas_datareader
+
 datetime
+

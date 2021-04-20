@@ -1,6 +1,12 @@
 # Apple stock price prediction using LSTM
 In this porject, I used LSTMs to predict next days' close price of Apple given previous 30 days' close price.
 
+# Results
+https://github.com/hziya/stockpredictionwithLSTM/blob/main/Output.jpg
+Blue plot is train data, orange is target test data, green is predicted data 
+
+
+
 # Used libraries
 Pandas
 
